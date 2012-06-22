@@ -1,16 +1,16 @@
 {
-	name: 'Leaflet Map',
-	tagName: 'x-map',
-	version: '0.0.1',
-	description: 'A leaflet-flavored map tag',
-	images: ['http://people.mozilla.com/~dbuchner/images/maps.png'],
-	demo: 'http://jsfiddle.net/GTRJX/6/',
-	categories: ['structural', 'media', 'input'],
-	compatibility: {
-		'firefox': 5,
-		'chrome': 4,
-		'opera': 11,
-		'android': 2.1,
-		'ios': 4
+	"name": "Leaflet Map",
+	"tagName": "x-map",
+	"version": "0.0.1",
+	"description": "A leaflet-flavored map tag",
+	"images": ["http://people.mozilla.com/~dbuchner/images/maps.png"],
+	"demo": "http://jsfiddle.net/GTRJX/6/",
+	"categories": ["structural", "media", "input"],
+	"compatibility": {
+		"firefox": 5,
+		"chrome": 4,
+		"opera": 11,
+		"android": 2.1,
+		"ios": 4
 	}
 }
